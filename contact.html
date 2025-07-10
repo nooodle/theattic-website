@@ -184,16 +184,10 @@
 <div class="sqs-form-block-submission-html" data-submission-html="" id="form-submission-html-544823dee4b0d14744a74d72"></div>
 <div class="form-wrapper">
 <div class="form-inner-wrapper" hidden="">
-<form action="https://nik-valentine.squarespace.com" autocomplete="on" data-dynamic-strings="" data-form-id="544823dee4b0d14744a74d72" data-success-redirect="" method="POST" novalidate="" onsubmit="return (function (form) {
-  Y.use('squarespace-form-submit', 'node', function usingFormSubmit(Y) {
-    (new Y.Squarespace.FormSubmit(form)).submit({
-      formId: '544823dee4b0d14744a74d72',
-      collectionId: '544823cae4b0d14744a74d3b',
-      objectName: 'page-544823cae4b0d14744a74d3b'
-    });
-  });
-  return false;
-})(this);">
+<form action="https://formspree.io/f/xeokyqjr" method="POST">
+  <input type="hidden" name="_subject" value="New contact from The Attic website">
+  <input type="hidden" name="_next" value="https://theattic.nikvalentine.workers.dev/thank-you.html">
+  <input type="text" name="_gotcha" style="display:none">
 <div class="field-list clear">
 <fieldset class="form-item fields name required" id="name-yui_3_17_2_1_1414013890624_13230">
 <legend class="title">
@@ -203,13 +197,13 @@
 </legend>
 <div class="field first-name">
 <label class="caption">
-<input aria-required="true" class="field-element field-control" data-title="First" maxlength="30" name="fname" spellcheck="false" type="text" x-autocompletetype="given-name"/>
+<input aria-required="true" class="field-element field-control" data-title="First" maxlength="30" name="first_name" spellcheck="false" type="text" x-autocompletetype="given-name"/>
 <span class="caption-text">First Name</span>
 </label>
 </div>
 <div class="field last-name">
 <label class="caption">
-<input aria-required="true" class="field-element field-control" data-title="Last" maxlength="30" name="lname" spellcheck="false" type="text" x-autocompletetype="surname"/>
+<input aria-required="true" class="field-element field-control" data-title="Last" maxlength="30" name="last_name" spellcheck="false" type="text" x-autocompletetype="surname"/>
 <span class="caption-text">Last Name</span>
 </label>
 </div>
@@ -219,7 +213,7 @@
               Suburb
               
             </label>
-<input class="field-element text" id="text-yui_3_17_2_1_1414013890624_18465-field" type="text"/>
+<input name="suburb" class="field-element text" id="text-yui_3_17_2_1_1414013890624_18465-field" type="text">
 </div>
 <fieldset class="form-item fields phone required" id="phone-yui_3_17_2_1_1414013890624_19965">
 <legend class="title">
@@ -229,19 +223,19 @@
 </legend>
 <div class="field text three-digits">
 <label class="caption">
-<input aria-required="true" class="field-element" data-title="Areacode" maxlength="3" type="text" x-autocompletetype="phone-area-code"/>
+<input name="phone_area" type="text" maxlength="3">
 <span class="caption-text">(###)</span>
 </label>
 </div>
 <div class="field text three-digits">
 <label class="caption">
-<input aria-required="true" class="field-element" data-title="Prefix" maxlength="3" type="text" x-autocompletetype="phone-local-prefix"/>
+<input name="phone_prefix" type="text" maxlength="3">
 <span class="caption-text">###</span>
 </label>
 </div>
 <div class="field text four-digits">
 <label class="caption">
-<input aria-required="true" class="field-element" data-title="Line" maxlength="4" type="text" x-autocompletetype="phone-local-suffix"/>
+<input name="phone_line" type="text" maxlength="4">
 <span class="caption-text">####</span>
 </label>
 </div>
@@ -260,7 +254,7 @@
               
                 <span aria-hidden="true" class="required">*</span>
 </label>
-<textarea aria-required="true" class="field-element" id="textarea-yui_3_17_2_1_1414013890624_14377-field"></textarea>
+<textarea name="message" class="field-element" id="textarea-yui_3_17_2_1_1414013890624_14377-field" aria-required="true"></textarea>
 </div>
 </div>
 <div class="form-button-wrapper form-button-wrapper--align-left" data-animation-role="button">
