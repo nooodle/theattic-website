@@ -1,40 +1,54 @@
-export default {
-  async fetch(request, env, ctx) {
-    const url = new URL(request.url);
-    let pathname = url.pathname;
+import { getAssetFromKV } from '@cloudflare/kv-asset-handler';
 
-    // Redirect www to non-www
-    if (url.hostname === 'www.theattic.net.au') {
-      return Response.redirect('https://theattic.net.au' + url.pathname, 301);
-    }
-    
-    // Handle root
+addEventListener('fetch', event => {
+  event.respondWith(handleEvent(event));
+});
+
+async function handleEvent(event) {
+  const url = new URL(event.request.url);
+  let pathname = url.pathname;
+
+  // Redirect www to non-www
+  if (url.hostname === 'www.theattic.net.au') {
+    return Response.redirect('https://theattic.net.au' + pathname, 301);
+  }
+
+  try {
+    // Handle clean URLs
     if (pathname === '/') {
       pathname = '/index.html';
     } else if (!pathname.includes('.')) {
       pathname = pathname + '.html';
     }
 
-    // Construct the asset URL
-    const assetURL = new URL(pathname, request.url);
-    let response = await fetch(assetURL);
+    // Get the asset
+    const page = await getAssetFromKV(event, {
+      mapRequestToAsset: req => new Request(`${url.origin}${pathname}`, req),
+    });
 
     // For contact page, inject Turnstile key
-    if ((pathname === '/contact.html' || pathname === '/contact') && response.ok) {
-      const text = await response.text();
+    if (pathname === '/contact.html' && event.env && event.env.TURNSTILE_SITE_KEY) {
+      const text = await page.text();
       
-      if (text.includes('TURNSTILE_SITE_KEY_PLACEHOLDER') && env.TURNSTILE_SITE_KEY) {
+      if (text.includes('TURNSTILE_SITE_KEY_PLACEHOLDER')) {
         const modifiedText = text.replace(
           'TURNSTILE_SITE_KEY_PLACEHOLDER',
-          env.TURNSTILE_SITE_KEY
+          event.env.TURNSTILE_SITE_KEY
         );
         
         return new Response(modifiedText, {
-          headers: response.headers
+          headers: page.headers
         });
       }
     }
 
-    return response;
+    return page;
+  } catch (e) {
+    // Try the original request if our modified one fails
+    try {
+      return await getAssetFromKV(event);
+    } catch (e) {
+      return new Response('Not found', { status: 404 });
+    }
   }
-};
+}

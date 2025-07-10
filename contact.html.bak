@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+
+<html lang="en-AU" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+<meta content="width=device-width,initial-scale=1.0" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<!-- This is Squarespace. --><!-- nik-valentine -->
+<base href="index.html"/>
+<meta charset="utf-8">
+<title>Contact — Attic Building Design</title>
+<meta content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" http-equiv="Accept-CH"><link href="https://assets.squarespace.com/universal/default-favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://www.theattic.net.au/contact" rel="canonical"/>
+<meta content="Attic Building Design" property="og:site_name">
+<meta content="Contact — Attic Building Design" property="og:title"/>
+<meta content="https://www.theattic.net.au/contact" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="Contact — Attic Building Design" itemprop="name"/>
+<meta content="https://www.theattic.net.au/contact" itemprop="url"/>
+<meta content="Contact — Attic Building Design" name="twitter:title"/>
+<meta content="https://www.theattic.net.au/contact" name="twitter:url"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="" name="description"/>
+<link href="https://images.squarespace-cdn.com" rel="preconnect"/>
+<link crossorigin="" href="https://use.typekit.net" rel="preconnect"/>
+<link crossorigin="" href="https://p.typekit.net" rel="preconnect"/>
+<script async="" fetchpriority="high" onload="try{Typekit.load();}catch(e){} document.documentElement.classList.remove('wf-loading');" src="//use.typekit.net/ik/9TrxDoCjXOUG3MjJsSII39R0N8YrD3P32iN2EJMtvobfe09ffFHN4UJLFRbh52jhWD9DFRyKwDjoZQsKw2I3ZRbD5QjUjQJhwy7FMPG0dc8nOWZydem0ie80ZPoDSWmyScmDSeBRZPoRdhXCdeNRjAUGdaFXOeoT-kuhjAU8d1sTdc90SaBujW48Sagyjh90jhNlOYsGZABXie8ROco8ifoyiPUaiaS0dc8nOWZydem0ie80ZPoDSWmyScmDSeBRZPoRdhXCiaiaO1sGZABXie8ROco8ifoyiPJwSY4zpe8ljPu0daZyJ68ciWsuScIlSYbKfcuuShmzOWFyd1w7fbRKHyMMeMw6MKG4fHXgIMMjgKMfH6qJK3IbMg6YJMJ7fbRRHyMMeMX6MKG4fHtgIMMjIfMfH6qJRMIbMg6sJMJ7fbKImsMgeMb6MKG4fJBmIMIjgkMfH6qJubvbMy62JMJ7fbRZ2UMfeMS6MKG4fFjVIMJj2PMfH6qJh6vbMy6sJMHbMic_TrSB.js" type="text/javascript"></script>
+<script>document.documentElement.classList.add('wf-loading')</script>
+<style>@keyframes fonts-loading { 0%, 99% { color: transparent; } } html.wf-loading * { animation: fonts-loading 3s; }</style>
+<script crossorigin="anonymous" nomodule="nomodule" src="/@sqs/polyfiller/1.6/legacy.js" type="text/javascript"></script>
+<script crossorigin="anonymous" src="/@sqs/polyfiller/1.6/modern.js" type="text/javascript"></script>
+<script type="text/javascript">SQUARESPACE_ROLLUPS = {};</script>
+<script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-2bf6f7dff4d7376c-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_runtime');</script>
+<script crossorigin="anonymous" src="/universal/scripts-compressed/extract-css-runtime-2bf6f7dff4d7376c-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-088ec0120fdbcfed-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-extract_css_moment_js_vendor');</script>
+<script crossorigin="anonymous" src="/universal/scripts-compressed/extract-css-moment-js-vendor-088ec0120fdbcfed-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-2a61369097cf3a56-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-cldr_resource_pack');</script>
+<script crossorigin="anonymous" src="/universal/scripts-compressed/cldr-resource-pack-2a61369097cf3a56-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-54bab8bb8a15366b-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors_stable');</script>
+<script crossorigin="anonymous" src="/universal/scripts-compressed/common-vendors-stable-54bab8bb8a15366b-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-vendors-698124deb244b568-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common_vendors');</script>
+<script crossorigin="anonymous" src="/universal/scripts-compressed/common-vendors-698124deb244b568-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/common-45e6a00179060fc1-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-common');</script>
+<script crossorigin="anonymous" src="/universal/scripts-compressed/common-45e6a00179060fc1-min.en-US.js"></script><script>(function(rollups, name) { if (!rollups[name]) { rollups[name] = {}; } rollups[name].js = ["//assets.squarespace.com/universal/scripts-compressed/performance-2d72671e85b4f712-min.en-US.js"]; })(SQUARESPACE_ROLLUPS, 'squarespace-performance');</script>
+<script crossorigin="anonymous" defer="" src="/universal/scripts-compressed/performance-2d72671e85b4f712-min.en-US.js"></script><script data-name="static-context">Static = window.Static || {}; Static.SQUARESPACE_CONTEXT = {"betaFeatureFlags":["product_pages_sdk_opt_in_enabled","marketing_automations","i18n_beta_website_locales","contacts_and_campaigns_redesign","order_status_page_checkout_landing_enabled","campaigns_import_discounts","campaigns_merch_state","campaigns_discount_section_in_automations","marketing_landing_page","enable_form_submission_trigger","section_sdk_product_pages_phase_two","campaigns_new_image_layout_picker","campaigns_thumbnail_layout","campaigns_discount_section_in_blasts","section-sdk-product-pages","section_sdk_product_pages_opt_in_modal"],"facebookAppId":"314192535267336","facebookApiVersion":"v6.0","rollups":{"squarespace-announcement-bar":{"js":"//assets.squarespace.com/universal/scripts-compressed/announcement-bar-a70a5808fc37cd4e-min.en-US.js"},"squarespace-audio-player":{"css":"//assets.squarespace.com/universal/styles-compressed/audio-player-b05f5197a871c566-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/audio-player-fc7cb5d2f9309474-min.en-US.js"},"squarespace-blog-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/blog-collection-list-b4046463b72f34e2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/blog-collection-list-20f48ba8f4d688e5-min.en-US.js"},"squarespace-calendar-block-renderer":{"css":"//assets.squarespace.com/universal/styles-compressed/calendar-block-renderer-b72d08ba4421f5a0-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/calendar-block-renderer-9b7a6b669c5758b6-min.en-US.js"},"squarespace-chartjs-helpers":{"css":"//assets.squarespace.com/universal/styles-compressed/chartjs-helpers-96b256171ee039c1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/chartjs-helpers-861ab83be22159a9-min.en-US.js"},"squarespace-comments":{"css":"//assets.squarespace.com/universal/styles-compressed/comments-bc2f7697935d87b9-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/comments-d606af5a42a986e6-min.en-US.js"},"squarespace-custom-css-popup":{"css":"//assets.squarespace.com/universal/styles-compressed/custom-css-popup-3d1023ee798be60c-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/custom-css-popup-49fd61aec2dd0c97-min.en-US.js"},"squarespace-dialog":{"css":"//assets.squarespace.com/universal/styles-compressed/dialog-f9093f2d526b94df-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/dialog-a568ed6392b33caa-min.en-US.js"},"squarespace-events-collection":{"css":"//assets.squarespace.com/universal/styles-compressed/events-collection-b72d08ba4421f5a0-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/events-collection-1692da3f9423d66d-min.en-US.js"},"squarespace-form-rendering-utils":{"js":"//assets.squarespace.com/universal/scripts-compressed/form-rendering-utils-ab2a3da315c45d31-min.en-US.js"},"squarespace-forms":{"css":"//assets.squarespace.com/universal/styles-compressed/forms-0afd3c6ac30bbab1-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/forms-4a68495f012fa3fd-min.en-US.js"},"squarespace-gallery-collection-list":{"css":"//assets.squarespace.com/universal/styles-compressed/gallery-collection-list-b4046463b72f34e2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/gallery-collection-list-0a3bb9513fb2907e-min.en-US.js"},"squarespace-image-zoom":{"css":"//assets.squarespace.com/universal/styles-compressed/image-zoom-b4046463b72f34e2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/image-zoom-9e288ddfae9db607-min.en-US.js"},"squarespace-pinterest":{"css":"//assets.squarespace.com/universal/styles-compressed/pinterest-b4046463b72f34e2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/pinterest-f3484692cdf3ea48-min.en-US.js"},"squarespace-popup-overlay":{"css":"//assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/popup-overlay-5af1f720e97c089d-min.en-US.js"},"squarespace-product-quick-view":{"css":"//assets.squarespace.com/universal/styles-compressed/product-quick-view-0ba5bac716923b8e-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/product-quick-view-cf662239fb044093-min.en-US.js"},"squarespace-products-collection-item-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-item-v2-b4046463b72f34e2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-item-v2-cdfab44e63c1de6c-min.en-US.js"},"squarespace-products-collection-list-v2":{"css":"//assets.squarespace.com/universal/styles-compressed/products-collection-list-v2-b4046463b72f34e2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/products-collection-list-v2-ae828888639c3677-min.en-US.js"},"squarespace-search-page":{"css":"//assets.squarespace.com/universal/styles-compressed/search-page-90a67fc09b9b32c6-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/search-page-429e162ba0530797-min.en-US.js"},"squarespace-search-preview":{"js":"//assets.squarespace.com/universal/scripts-compressed/search-preview-097500f2d7b43b5c-min.en-US.js"},"squarespace-simple-liking":{"css":"//assets.squarespace.com/universal/styles-compressed/simple-liking-701bf8bbc05ec6aa-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/simple-liking-9da30ee383bc0df1-min.en-US.js"},"squarespace-social-buttons":{"css":"//assets.squarespace.com/universal/styles-compressed/social-buttons-95032e5fa98e47a5-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/social-buttons-f5229374dde9e5db-min.en-US.js"},"squarespace-tourdates":{"css":"//assets.squarespace.com/universal/styles-compressed/tourdates-b4046463b72f34e2-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/tourdates-f408f7719350f899-min.en-US.js"},"squarespace-website-overlays-manager":{"css":"//assets.squarespace.com/universal/styles-compressed/website-overlays-manager-07ea5a4e004e6710-min.en-US.css","js":"//assets.squarespace.com/universal/scripts-compressed/website-overlays-manager-ba64a9a51a85632d-min.en-US.js"}},"pageType":2,"website":{"id":"5368b369e4b010f43961a262","identifier":"nik-valentine","websiteType":1,"contentModifiedOn":1640061333330,"cloneable":false,"hasBeenCloneable":false,"developerMode":false,"siteStatus":{},"language":"en-AU","timeZone":"Australia/Victoria","machineTimeZoneOffset":36000000,"timeZoneOffset":36000000,"timeZoneAbbr":"AEST","siteTitle":"Attic Building Design","fullSiteTitle":"Contact \u2014 Attic Building Design","siteTagLine":"Others Just Draft - We Design","siteDescription":"","location":{"mapZoom":10.0,"mapLat":-37.798612,"mapLng":144.98607700000002,"markerLat":-37.8031231,"markerLng":144.98365139999999,"addressTitle":"Attic Building Design","addressLine1":"33 Sackville Street","addressLine2":"Collingwood, VIC, 3066","addressCountry":"Australia"},"logoImageId":"5368bceee4b05b7433d5f15d","shareButtonOptions":{"7":true,"1":true,"6":true,"4":true,"3":true,"2":true,"8":true},"logoImageUrl":"//images.squarespace-cdn.com/content/v1/5368b369e4b010f43961a262/1399373038035-4A5NA9WLQ4UHR1L70BU5/AtticLogo_BLACK.png","authenticUrl":"https://www.theattic.net.au","internalUrl":"https://nik-valentine.squarespace.com","baseUrl":"https://www.theattic.net.au","primaryDomain":"www.theattic.net.au","sslSetting":3,"isHstsEnabled":true,"socialAccounts":[{"serviceId":2,"userId":"668670245","userName":"nik.valentine","screenname":"Nik Valentine","addedOn":1399371876582,"profileUrl":"http://www.facebook.com/668670245","iconUrl":"http://graph.facebook.com/668670245/picture?type=square","metaData":{"service":"facebook"},"iconEnabled":true,"serviceName":"facebook"},{"serviceId":4,"userId":"391172543","userName":"AtticBuilDesign","screenname":"AtticBuildingDesign","addedOn":1399371988575,"profileUrl":"https://twitter.com/AtticBuilDesign","iconUrl":"http://pbs.twimg.com/profile_images/455657854930657280/L8N-9hO0_normal.png","collectionId":"5368b8d4e4b0a33222ab0f08","iconEnabled":true,"serviceName":"twitter"}],"typekitId":"","statsMigrated":false,"imageMetadataProcessingEnabled":false,"screenshotId":"0526cbc8729289995699e40b34c120569a14e816c4d0e544f0e999c2d4c1cbba","captchaSettings":{"enabledForDonations":false},"showOwnerLogin":false},"websiteSettings":{"id":"5368b369e4b010f43961a263","websiteId":"5368b369e4b010f43961a262","type":"Business","subjects":[{"systemSubject":"design"}],"country":"AU","state":"","simpleLikingEnabled":true,"popupOverlaySettings":{"style":1,"enabledPages":[]},"commentLikesAllowed":true,"commentAnonAllowed":true,"commentThreaded":true,"commentApprovalRequired":false,"commentAvatarsOn":true,"commentSortType":2,"commentFlagThreshold":0,"commentFlagsAllowed":true,"commentEnableByDefault":true,"commentDisableAfterDaysDefault":0,"disqusShortname":"","commentsEnabled":true,"contactPhoneNumber":"0423 107 119","businessHours":{"monday":{"text":"9am - 5pm","ranges":[{"from":540,"to":1020}]},"tuesday":{"text":"9am - 5pm","ranges":[{"from":540,"to":1020}]},"wednesday":{"text":"9am - 5pm","ranges":[{"from":540,"to":1020}]},"thursday":{"text":"9am - 5pm","ranges":[{"from":540,"to":1020}]},"friday":{"text":"9am - 5pm","ranges":[{"from":540,"to":1020}]},"saturday":{"text":"","ranges":[{}]},"sunday":{"text":"","ranges":[{}]}},"storeSettings":{"returnPolicy":null,"termsOfService":null,"privacyPolicy":null,"expressCheckout":false,"continueShoppingLinkUrl":"/","useLightCart":false,"showNoteField":false,"shippingCountryDefaultValue":"US","billToShippingDefaultValue":false,"showShippingPhoneNumber":true,"isShippingPhoneRequired":false,"showBillingPhoneNumber":true,"isBillingPhoneRequired":false,"currenciesSupported":["CHF","HKD","MXN","EUR","DKK","USD","CAD","MYR","NOK","THB","AUD","SGD","ILS","PLN","GBP","CZK","SEK","NZD","PHP","RUB"],"defaultCurrency":"USD","selectedCurrency":"USD","measurementStandard":2,"showCustomCheckoutForm":false,"checkoutPageMarketingOptInEnabled":false,"enableMailingListOptInByDefault":true,"sameAsRetailLocation":false,"merchandisingSettings":{"scarcityEnabledOnProductItems":false,"scarcityEnabledOnProductBlocks":false,"scarcityMessageType":"DEFAULT_SCARCITY_MESSAGE","scarcityThreshold":10,"multipleQuantityAllowedForServices":true,"restockNotificationsEnabled":false,"restockNotificationsSuccessText":"","restockNotificationsMailingListSignUpEnabled":false,"relatedProductsEnabled":false,"relatedProductsOrdering":"random","soldOutVariantsDropdownDisabled":false,"productComposerOptedIn":false,"productComposerABTestOptedOut":false,"productReviewsEnabled":false,"displayImportedProductReviewsEnabled":false,"hasOptedToCollectNativeReviews":false},"minimumOrderSubtotalEnabled":false,"isLive":false,"multipleQuantityAllowedForServices":true},"useEscapeKeyToLogin":true,"ssBadgeType":1,"ssBadgePosition":4,"ssBadgeVisibility":1,"ssBadgeDevices":1,"pinterestOverlayOptions":{"mode":"disabled","size":"small","shape":"rect","color":"white"},"userAccountsSettings":{"loginAllowed":false,"signupAllowed":false}},"cookieSettings":{"isCookieBannerEnabled":false,"isRestrictiveCookiePolicyEnabled":false,"cookieBannerText":"","cookieBannerTheme":"","cookieBannerVariant":"","cookieBannerPosition":"","cookieBannerCtaVariant":"","cookieBannerCtaText":"","cookieBannerAcceptType":"OPT_IN","cookieBannerOptOutCtaText":"","cookieBannerHasOptOut":false,"cookieBannerHasManageCookies":true,"cookieBannerManageCookiesLabel":"","cookieBannerSavedPreferencesText":"","cookieBannerSavedPreferencesLayout":"PILL"},"websiteCloneable":false,"collection":{"title":"Contact","id":"544823cae4b0d14744a74d3b","fullUrl":"/contact","type":10,"permissionType":1},"subscribed":false,"appDomain":"squarespace.com","templateTweakable":true,"tweakJSON":{"auto-play":"true","galleryAutoPlayDelay":"4","index-transition":"Fade","lightbox-transition":"Slide","product-gallery-auto-crop":"true","product-image-auto-crop":"true","slides-click-through":"false","tweak-v1-related-products-title-spacing":"50px"},"templateId":"51e6b9e4e4b062dafa7099b9","templateVersion":"7","pageFeatures":[1,2,4],"gmRenderKey":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","templateScriptsRootUrl":"https://static1.squarespace.com/static/ta/51e6b9c9e4b050adffbe392c/1243/scripts/","impersonatedSession":false,"tzData":{"zones":[[600,"AV","AE%sT",null]],"rules":{"AV":[[1995,2005,null,"Mar","lastSun","2:00s","0","S"],[2001,2007,null,"Oct","lastSun","2:00s","1:00","D"],[2006,"only",null,"Apr","Sun>=1","2:00s","0","S"],[2007,"only",null,"Mar","lastSun","2:00s","0","S"],[2008,"max",null,"Apr","Sun>=1","2:00s","0","S"],[2008,"max",null,"Oct","Sun>=1","2:00s","1:00","D"]]}},"showAnnouncementBar":false,"recaptchaEnterpriseContext":{"recaptchaEnterpriseSiteKey":"6LdDFQwjAAAAAPigEvvPgEVbb7QBm-TkVJdDTlAv"},"i18nContext":{"timeZoneData":{"id":"Australia/Melbourne","name":"Eastern Australia Time"}},"env":"PRODUCTION"};</script><script>Squarespace.load(window);</script>
+<script type="application/ld+json">{"url":"https://www.theattic.net.au","name":"Attic Building Design","description":"","image":"//images.squarespace-cdn.com/content/v1/5368b369e4b010f43961a262/1399373038035-4A5NA9WLQ4UHR1L70BU5/AtticLogo_BLACK.png","@context":"http://schema.org","@type":"WebSite"}</script><script type="application/ld+json">{"legalName":"Attic Building Design","address":"33 Sackville Street\nCollingwood, VIC, 3066\nAustralia","email":"sales@theattic.net.au","telephone":"0423 107 119","sameAs":["http://www.facebook.com/668670245","https://twitter.com/AtticBuilDesign"],"@context":"http://schema.org","@type":"Organization"}</script><script type="application/ld+json">{"address":"33 Sackville Street\nCollingwood, VIC, 3066\nAustralia","image":"https://static1.squarespace.com/static/5368b369e4b010f43961a262/t/5368bceee4b05b7433d5f15d/1640061333330/","name":"Attic Building Design","openingHours":"Mo 09:00-17:00, Tu 09:00-17:00, We 09:00-17:00, Th 09:00-17:00, Fr 09:00-17:00, , ","@context":"http://schema.org","@type":"LocalBusiness"}</script><link href="static/sitecss/5368b369e4b010f43961a262/71/51e6b9e4e4b062dafa7099b9/5368b369e4b010f43961a266/1243/site.css" rel="stylesheet" type="text/css"><script>Static.COOKIE_BANNER_CAPABLE = true;</script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-101295815-1"></script><script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('set', 'developer_id.dZjQwMz', true);gtag('config', 'UA-101295815-1');</script><script defer="" src="/website-component-definition/static-assets/website.components.map/52985fa4-cee1-4207-bb9b-ea6ea697a1d3_121/website.components.map.visitor.js"></script><!-- End of Squarespace Headers -->
+</link></meta></meta></meta></head>
+<body class="index-transition-fade hide-arrows auto-play lightbox-transition-slide content-alignment-left underline-body-links sidebar-position-right show-social-icons social-icon-style-normal event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address event-icalgcal-links event-excerpts event-item-back-link product-list-titles-under product-list-alignment-left product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-544823cae4b0d14744a74d3b collection-layout-default mobile-style-available page-contact" id="collection-544823cae4b0d14744a74d3b">
+<div class="sqs-announcement-bar-dropzone"></div><!--Fixes index page loading issue when announcement bar is enabled -->
+<div id="canvasWrapper">
+<div id="canvas">
+<div id="headerWrapper">
+<header id="header">
+<div class="wrapper">
+<div data-content-field="site-title" id="logo">
+<h1 class="logo logo-image">
+<a href="index.html"><img alt="Attic Building Design" src="/content/v1/5368b369e4b010f43961a262/1399373038035-4A5NA9WLQ4UHR1L70BU5/AtticLogo_BLACK.png"/></a>
+</h1>
+<script type="module">
+              Y.use('squarespace-ui-base', function(Y) {
+                Y.one(".logo a").plug(Y.Squarespace.TextShrink, {
+                  parentEl: Y.one('#header'),
+                  triggerWidth: 768
+                });
+              });
+            </script>
+<h2 class="logo-subtitle">Others Just Draft - We Design</h2>
+</div>
+<span class="ctrl-button menu"><a class="icon-hamburger"></a></span>
+<div id="topNav">
+<nav class="main-nav" data-content-field="navigation">
+<div class="nav-wrapper">
+<ul class="cf">
+<li class="index-collection folder">
+<!--FOLDER-->
+<div class="folder-parent">
+<a aria-haspopup="true" href="index.html"><span>Our Work</span></a>
+<div class="folder-child-wrapper">
+<ul class="folder-child">
+<li class="">
+<a href="project-5.html" title="Beissel">
+<span>Beissel</span>
+</a>
+</li>
+<li class="">
+<a href="new-gallery-5.html" title="Green">
+<span>Green</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li>
+<li class="page-collection">
+<a href="about.html"><span>Our Business</span></a>
+</li>
+<li class="external-link">
+<a href="index.html"><span></span></a>
+</li>
+<li class="page-collection active-link">
+<a href="contact.html"><span>Contact</span></a>
+</li>
+</ul>
+</div>
+</nav>
+<div class="social-links sqs-svg-icon--list" data-content-field="connected-accounts" id="sqs-social">
+<a class="sqs-svg-icon--wrapper facebook" href="http://www.facebook.com/668670245" target="_blank">
+<div>
+<svg class="sqs-svg-icon--social" viewbox="0 0 64 64">
+<use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+<use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+</svg>
+</div>
+</a>
+<a class="sqs-svg-icon--wrapper twitter" href="https://twitter.com/AtticBuilDesign" target="_blank">
+<div>
+<svg class="sqs-svg-icon--social" viewbox="0 0 64 64">
+<use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+<use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+</svg>
+</div>
+</a>
+</div>
+</div>
+</div>
+</header>
+<nav id="mobile-navigation">
+<!--MOBILE-->
+<ul>
+<li class="index-collection active-folder">
+<input class="folder-toggle-box hidden" id="folder-toggle-5368b55ee4b010f43961a383" name="folder-toggle-5368b55ee4b010f43961a383" type="checkbox"/>
+<label class="folder-toggle-label" for="folder-toggle-5368b55ee4b010f43961a383"><a href="index.html">Our Work</a></label>
+<ul>
+<li class="gallery-collection">
+<a href="project-5.html">Beissel</a>
+</li>
+<li class="gallery-collection">
+<a href="new-gallery-5.html">Green</a>
+</li>
+</ul>
+</li>
+<li class="page-collection">
+<a href="about.html">Our Business</a>
+</li>
+<li class="-collection">
+<a href="index.html"></a>
+</li>
+<li class="page-collection active-link">
+<a href="contact.html">Contact</a>
+</li>
+</ul>
+<div class="social-links sqs-svg-icon--list" id="sqs-social">
+<a class="sqs-svg-icon--wrapper facebook" href="http://www.facebook.com/668670245" target="_blank">
+<div>
+<svg class="sqs-svg-icon--social" viewbox="0 0 64 64">
+<use class="sqs-use--icon" xlink:href="#facebook-icon"></use>
+<use class="sqs-use--mask" xlink:href="#facebook-mask"></use>
+</svg>
+</div>
+</a>
+<a class="sqs-svg-icon--wrapper twitter" href="https://twitter.com/AtticBuilDesign" target="_blank">
+<div>
+<svg class="sqs-svg-icon--social" viewbox="0 0 64 64">
+<use class="sqs-use--icon" xlink:href="#twitter-icon"></use>
+<use class="sqs-use--mask" xlink:href="#twitter-mask"></use>
+</svg>
+</div>
+</a>
+</div>
+<div id="mobile-location">
+<div>Attic Building Design</div>
+<div>33 Sackville Street</div>
+<div>Collingwood, VIC, 3066</div>
+<div>Australia</div>
+<div>0423 107 119</div>
+</div>
+</nav>
+</div>
+<div class="pageWrapper">
+<section id="page">
+<div data-content-field="main-content" id="mainContent" role="main">
+<div class="sqs-layout sqs-grid-12 columns-12" data-type="page" data-updated-on="1573470700427" id="page-544823cae4b0d14744a74d3b"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1414013890624_48993"><div class="sqs-block-content">
+<div class="sqs-html-content">
+<h1 style="white-space:pre-wrap;">CONTACT US </h1>
+</div>
+</div></div><div class="sqs-block form-block sqs-block-form" data-block-type="9" data-sqsp-block="form" id="block-yui_3_17_2_1_1414013890624_9078"><div class="sqs-block-content">
+<script class="sqs-form-block-context" id="form-context-544823dee4b0d14744a74d72" type="application/json">{"secureUrl":"https://nik-valentine.squarespace.com","formSubmitButtonText":"Submit","formSubmissionMessage":{"html":"<p>Thank you, we'll be in touch very soon!</p>","source":"<p>Thank you, we'll be in touch very soon!</p>"},"submissionVerticalAlignment":"","buttonAlignment":"left","submissionMessageTextStyle":"","formName":"Contact Us Here","collectionId":"544823cae4b0d14744a74d3b","submissionAnimation":"","captchaTheme":1,"formId":"544823dee4b0d14744a74d72","useLightbox":false,"firstFieldHighlightType":"","successRedirect":"","useFormsJs":true,"submissionTextAlignment":"","formFieldFormats":{"initialNameOrder":"GIVEN_FIRST","initialAddressFormat":{"id":0,"type":"ADDRESS","country":"AU","labelLocale":"en","fields":[{"type":"FIELD","label":"Address Line 1","identifier":"Line1","length":0,"required":true,"metadata":{"autocomplete":"address-line1"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Address Line 2","identifier":"Line2","length":0,"required":false,"metadata":{"autocomplete":"address-line2"}},{"type":"SEPARATOR","label":"\n","identifier":"Newline","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Suburb","identifier":"City","length":0,"required":true,"metadata":{"autocomplete":"address-level2"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"State","identifier":"State","length":0,"required":true,"metadata":{"autocomplete":"address-level1"}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"Postcode","identifier":"Zip","length":0,"required":true,"metadata":{"autocomplete":"postal-code"}}]},"countries":[{"name":"Afghanistan","code":"AF","phoneCode":"+93"},{"name":"Åland Islands","code":"AX","phoneCode":"+358"},{"name":"Albania","code":"AL","phoneCode":"+355"},{"name":"Algeria","code":"DZ","phoneCode":"+213"},{"name":"American Samoa","code":"AS","phoneCode":"+1"},{"name":"Andorra","code":"AD","phoneCode":"+376"},{"name":"Angola","code":"AO","phoneCode":"+244"},{"name":"Anguilla","code":"AI","phoneCode":"+1"},{"name":"Antigua & Barbuda","code":"AG","phoneCode":"+1"},{"name":"Argentina","code":"AR","phoneCode":"+54"},{"name":"Armenia","code":"AM","phoneCode":"+374"},{"name":"Aruba","code":"AW","phoneCode":"+297"},{"name":"Ascension Island","code":"AC","phoneCode":"+247"},{"name":"Australia","code":"AU","phoneCode":"+61"},{"name":"Austria","code":"AT","phoneCode":"+43"},{"name":"Azerbaijan","code":"AZ","phoneCode":"+994"},{"name":"Bahamas","code":"BS","phoneCode":"+1"},{"name":"Bahrain","code":"BH","phoneCode":"+973"},{"name":"Bangladesh","code":"BD","phoneCode":"+880"},{"name":"Barbados","code":"BB","phoneCode":"+1"},{"name":"Belarus","code":"BY","phoneCode":"+375"},{"name":"Belgium","code":"BE","phoneCode":"+32"},{"name":"Belize","code":"BZ","phoneCode":"+501"},{"name":"Benin","code":"BJ","phoneCode":"+229"},{"name":"Bermuda","code":"BM","phoneCode":"+1"},{"name":"Bhutan","code":"BT","phoneCode":"+975"},{"name":"Bolivia","code":"BO","phoneCode":"+591"},{"name":"Bosnia & Herzegovina","code":"BA","phoneCode":"+387"},{"name":"Botswana","code":"BW","phoneCode":"+267"},{"name":"Brazil","code":"BR","phoneCode":"+55"},{"name":"British Indian Ocean Territory","code":"IO","phoneCode":"+246"},{"name":"British Virgin Islands","code":"VG","phoneCode":"+1"},{"name":"Brunei","code":"BN","phoneCode":"+673"},{"name":"Bulgaria","code":"BG","phoneCode":"+359"},{"name":"Burkina Faso","code":"BF","phoneCode":"+226"},{"name":"Burundi","code":"BI","phoneCode":"+257"},{"name":"Cambodia","code":"KH","phoneCode":"+855"},{"name":"Cameroon","code":"CM","phoneCode":"+237"},{"name":"Canada","code":"CA","phoneCode":"+1"},{"name":"Cape Verde","code":"CV","phoneCode":"+238"},{"name":"Caribbean Netherlands","code":"BQ","phoneCode":"+599"},{"name":"Cayman Islands","code":"KY","phoneCode":"+1"},{"name":"Central African Republic","code":"CF","phoneCode":"+236"},{"name":"Chad","code":"TD","phoneCode":"+235"},{"name":"Chile","code":"CL","phoneCode":"+56"},{"name":"China","code":"CN","phoneCode":"+86"},{"name":"Christmas Island","code":"CX","phoneCode":"+61"},{"name":"Cocos (Keeling) Islands","code":"CC","phoneCode":"+61"},{"name":"Colombia","code":"CO","phoneCode":"+57"},{"name":"Comoros","code":"KM","phoneCode":"+269"},{"name":"Congo - Brazzaville","code":"CG","phoneCode":"+242"},{"name":"Congo - Kinshasa","code":"CD","phoneCode":"+243"},{"name":"Cook Islands","code":"CK","phoneCode":"+682"},{"name":"Costa Rica","code":"CR","phoneCode":"+506"},{"name":"Côte d’Ivoire","code":"CI","phoneCode":"+225"},{"name":"Croatia","code":"HR","phoneCode":"+385"},{"name":"Cuba","code":"CU","phoneCode":"+53"},{"name":"Curaçao","code":"CW","phoneCode":"+599"},{"name":"Cyprus","code":"CY","phoneCode":"+357"},{"name":"Czechia","code":"CZ","phoneCode":"+420"},{"name":"Denmark","code":"DK","phoneCode":"+45"},{"name":"Djibouti","code":"DJ","phoneCode":"+253"},{"name":"Dominica","code":"DM","phoneCode":"+1"},{"name":"Dominican Republic","code":"DO","phoneCode":"+1"},{"name":"Ecuador","code":"EC","phoneCode":"+593"},{"name":"Egypt","code":"EG","phoneCode":"+20"},{"name":"El Salvador","code":"SV","phoneCode":"+503"},{"name":"Equatorial Guinea","code":"GQ","phoneCode":"+240"},{"name":"Eritrea","code":"ER","phoneCode":"+291"},{"name":"Estonia","code":"EE","phoneCode":"+372"},{"name":"Eswatini","code":"SZ","phoneCode":"+268"},{"name":"Ethiopia","code":"ET","phoneCode":"+251"},{"name":"Falkland Islands","code":"FK","phoneCode":"+500"},{"name":"Faroe Islands","code":"FO","phoneCode":"+298"},{"name":"Fiji","code":"FJ","phoneCode":"+679"},{"name":"Finland","code":"FI","phoneCode":"+358"},{"name":"France","code":"FR","phoneCode":"+33"},{"name":"French Guiana","code":"GF","phoneCode":"+594"},{"name":"French Polynesia","code":"PF","phoneCode":"+689"},{"name":"Gabon","code":"GA","phoneCode":"+241"},{"name":"Gambia","code":"GM","phoneCode":"+220"},{"name":"Georgia","code":"GE","phoneCode":"+995"},{"name":"Germany","code":"DE","phoneCode":"+49"},{"name":"Ghana","code":"GH","phoneCode":"+233"},{"name":"Gibraltar","code":"GI","phoneCode":"+350"},{"name":"Greece","code":"GR","phoneCode":"+30"},{"name":"Greenland","code":"GL","phoneCode":"+299"},{"name":"Grenada","code":"GD","phoneCode":"+1"},{"name":"Guadeloupe","code":"GP","phoneCode":"+590"},{"name":"Guam","code":"GU","phoneCode":"+1"},{"name":"Guatemala","code":"GT","phoneCode":"+502"},{"name":"Guernsey","code":"GG","phoneCode":"+44"},{"name":"Guinea","code":"GN","phoneCode":"+224"},{"name":"Guinea-Bissau","code":"GW","phoneCode":"+245"},{"name":"Guyana","code":"GY","phoneCode":"+592"},{"name":"Haiti","code":"HT","phoneCode":"+509"},{"name":"Honduras","code":"HN","phoneCode":"+504"},{"name":"Hong Kong SAR China","code":"HK","phoneCode":"+852"},{"name":"Hungary","code":"HU","phoneCode":"+36"},{"name":"Iceland","code":"IS","phoneCode":"+354"},{"name":"India","code":"IN","phoneCode":"+91"},{"name":"Indonesia","code":"ID","phoneCode":"+62"},{"name":"Iran","code":"IR","phoneCode":"+98"},{"name":"Iraq","code":"IQ","phoneCode":"+964"},{"name":"Ireland","code":"IE","phoneCode":"+353"},{"name":"Isle of Man","code":"IM","phoneCode":"+44"},{"name":"Israel","code":"IL","phoneCode":"+972"},{"name":"Italy","code":"IT","phoneCode":"+39"},{"name":"Jamaica","code":"JM","phoneCode":"+1"},{"name":"Japan","code":"JP","phoneCode":"+81"},{"name":"Jersey","code":"JE","phoneCode":"+44"},{"name":"Jordan","code":"JO","phoneCode":"+962"},{"name":"Kazakhstan","code":"KZ","phoneCode":"+7"},{"name":"Kenya","code":"KE","phoneCode":"+254"},{"name":"Kiribati","code":"KI","phoneCode":"+686"},{"name":"Kosovo","code":"XK","phoneCode":"+383"},{"name":"Kuwait","code":"KW","phoneCode":"+965"},{"name":"Kyrgyzstan","code":"KG","phoneCode":"+996"},{"name":"Laos","code":"LA","phoneCode":"+856"},{"name":"Latvia","code":"LV","phoneCode":"+371"},{"name":"Lebanon","code":"LB","phoneCode":"+961"},{"name":"Lesotho","code":"LS","phoneCode":"+266"},{"name":"Liberia","code":"LR","phoneCode":"+231"},{"name":"Libya","code":"LY","phoneCode":"+218"},{"name":"Liechtenstein","code":"LI","phoneCode":"+423"},{"name":"Lithuania","code":"LT","phoneCode":"+370"},{"name":"Luxembourg","code":"LU","phoneCode":"+352"},{"name":"Macao SAR China","code":"MO","phoneCode":"+853"},{"name":"Madagascar","code":"MG","phoneCode":"+261"},{"name":"Malawi","code":"MW","phoneCode":"+265"},{"name":"Malaysia","code":"MY","phoneCode":"+60"},{"name":"Maldives","code":"MV","phoneCode":"+960"},{"name":"Mali","code":"ML","phoneCode":"+223"},{"name":"Malta","code":"MT","phoneCode":"+356"},{"name":"Marshall Islands","code":"MH","phoneCode":"+692"},{"name":"Martinique","code":"MQ","phoneCode":"+596"},{"name":"Mauritania","code":"MR","phoneCode":"+222"},{"name":"Mauritius","code":"MU","phoneCode":"+230"},{"name":"Mayotte","code":"YT","phoneCode":"+262"},{"name":"Mexico","code":"MX","phoneCode":"+52"},{"name":"Micronesia","code":"FM","phoneCode":"+691"},{"name":"Moldova","code":"MD","phoneCode":"+373"},{"name":"Monaco","code":"MC","phoneCode":"+377"},{"name":"Mongolia","code":"MN","phoneCode":"+976"},{"name":"Montenegro","code":"ME","phoneCode":"+382"},{"name":"Montserrat","code":"MS","phoneCode":"+1"},{"name":"Morocco","code":"MA","phoneCode":"+212"},{"name":"Mozambique","code":"MZ","phoneCode":"+258"},{"name":"Myanmar (Burma)","code":"MM","phoneCode":"+95"},{"name":"Namibia","code":"NA","phoneCode":"+264"},{"name":"Nauru","code":"NR","phoneCode":"+674"},{"name":"Nepal","code":"NP","phoneCode":"+977"},{"name":"Netherlands","code":"NL","phoneCode":"+31"},{"name":"New Caledonia","code":"NC","phoneCode":"+687"},{"name":"New Zealand","code":"NZ","phoneCode":"+64"},{"name":"Nicaragua","code":"NI","phoneCode":"+505"},{"name":"Niger","code":"NE","phoneCode":"+227"},{"name":"Nigeria","code":"NG","phoneCode":"+234"},{"name":"Niue","code":"NU","phoneCode":"+683"},{"name":"Norfolk Island","code":"NF","phoneCode":"+672"},{"name":"Northern Mariana Islands","code":"MP","phoneCode":"+1"},{"name":"North Korea","code":"KP","phoneCode":"+850"},{"name":"North Macedonia","code":"MK","phoneCode":"+389"},{"name":"Norway","code":"NO","phoneCode":"+47"},{"name":"Oman","code":"OM","phoneCode":"+968"},{"name":"Pakistan","code":"PK","phoneCode":"+92"},{"name":"Palau","code":"PW","phoneCode":"+680"},{"name":"Palestinian Territories","code":"PS","phoneCode":"+970"},{"name":"Panama","code":"PA","phoneCode":"+507"},{"name":"Papua New Guinea","code":"PG","phoneCode":"+675"},{"name":"Paraguay","code":"PY","phoneCode":"+595"},{"name":"Peru","code":"PE","phoneCode":"+51"},{"name":"Philippines","code":"PH","phoneCode":"+63"},{"name":"Poland","code":"PL","phoneCode":"+48"},{"name":"Portugal","code":"PT","phoneCode":"+351"},{"name":"Puerto Rico","code":"PR","phoneCode":"+1"},{"name":"Qatar","code":"QA","phoneCode":"+974"},{"name":"Réunion","code":"RE","phoneCode":"+262"},{"name":"Romania","code":"RO","phoneCode":"+40"},{"name":"Russia","code":"RU","phoneCode":"+7"},{"name":"Rwanda","code":"RW","phoneCode":"+250"},{"name":"Samoa","code":"WS","phoneCode":"+685"},{"name":"San Marino","code":"SM","phoneCode":"+378"},{"name":"São Tomé & Príncipe","code":"ST","phoneCode":"+239"},{"name":"Saudi Arabia","code":"SA","phoneCode":"+966"},{"name":"Senegal","code":"SN","phoneCode":"+221"},{"name":"Serbia","code":"RS","phoneCode":"+381"},{"name":"Seychelles","code":"SC","phoneCode":"+248"},{"name":"Sierra Leone","code":"SL","phoneCode":"+232"},{"name":"Singapore","code":"SG","phoneCode":"+65"},{"name":"Sint Maarten","code":"SX","phoneCode":"+1"},{"name":"Slovakia","code":"SK","phoneCode":"+421"},{"name":"Slovenia","code":"SI","phoneCode":"+386"},{"name":"Solomon Islands","code":"SB","phoneCode":"+677"},{"name":"Somalia","code":"SO","phoneCode":"+252"},{"name":"South Africa","code":"ZA","phoneCode":"+27"},{"name":"South Korea","code":"KR","phoneCode":"+82"},{"name":"South Sudan","code":"SS","phoneCode":"+211"},{"name":"Spain","code":"ES","phoneCode":"+34"},{"name":"Sri Lanka","code":"LK","phoneCode":"+94"},{"name":"St. Barthélemy","code":"BL","phoneCode":"+590"},{"name":"St. Helena","code":"SH","phoneCode":"+290"},{"name":"St. Kitts & Nevis","code":"KN","phoneCode":"+1"},{"name":"St. Lucia","code":"LC","phoneCode":"+1"},{"name":"St. Martin","code":"MF","phoneCode":"+590"},{"name":"St. Pierre & Miquelon","code":"PM","phoneCode":"+508"},{"name":"St. Vincent & Grenadines","code":"VC","phoneCode":"+1"},{"name":"Sudan","code":"SD","phoneCode":"+249"},{"name":"Suriname","code":"SR","phoneCode":"+597"},{"name":"Svalbard & Jan Mayen","code":"SJ","phoneCode":"+47"},{"name":"Sweden","code":"SE","phoneCode":"+46"},{"name":"Switzerland","code":"CH","phoneCode":"+41"},{"name":"Syria","code":"SY","phoneCode":"+963"},{"name":"Taiwan","code":"TW","phoneCode":"+886"},{"name":"Tajikistan","code":"TJ","phoneCode":"+992"},{"name":"Tanzania","code":"TZ","phoneCode":"+255"},{"name":"Thailand","code":"TH","phoneCode":"+66"},{"name":"Timor-Leste","code":"TL","phoneCode":"+670"},{"name":"Togo","code":"TG","phoneCode":"+228"},{"name":"Tokelau","code":"TK","phoneCode":"+690"},{"name":"Tonga","code":"TO","phoneCode":"+676"},{"name":"Trinidad & Tobago","code":"TT","phoneCode":"+1"},{"name":"Tristan da Cunha","code":"TA","phoneCode":"+290"},{"name":"Tunisia","code":"TN","phoneCode":"+216"},{"name":"Türkiye","code":"TR","phoneCode":"+90"},{"name":"Turkmenistan","code":"TM","phoneCode":"+993"},{"name":"Turks & Caicos Islands","code":"TC","phoneCode":"+1"},{"name":"Tuvalu","code":"TV","phoneCode":"+688"},{"name":"U.S. Virgin Islands","code":"VI","phoneCode":"+1"},{"name":"Uganda","code":"UG","phoneCode":"+256"},{"name":"Ukraine","code":"UA","phoneCode":"+380"},{"name":"United Arab Emirates","code":"AE","phoneCode":"+971"},{"name":"United Kingdom","code":"GB","phoneCode":"+44"},{"name":"United States","code":"US","phoneCode":"+1"},{"name":"Uruguay","code":"UY","phoneCode":"+598"},{"name":"Uzbekistan","code":"UZ","phoneCode":"+998"},{"name":"Vanuatu","code":"VU","phoneCode":"+678"},{"name":"Vatican City","code":"VA","phoneCode":"+39"},{"name":"Venezuela","code":"VE","phoneCode":"+58"},{"name":"Vietnam","code":"VN","phoneCode":"+84"},{"name":"Wallis & Futuna","code":"WF","phoneCode":"+681"},{"name":"Western Sahara","code":"EH","phoneCode":"+212"},{"name":"Yemen","code":"YE","phoneCode":"+967"},{"name":"Zambia","code":"ZM","phoneCode":"+260"},{"name":"Zimbabwe","code":"ZW","phoneCode":"+263"}],"initialPhoneFormat":{"id":0,"type":"PHONE_NUMBER","country":"AU","labelLocale":"en-US","fields":[{"type":"FIELD","label":"1","identifier":"1","length":1,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"2","identifier":"2","length":4,"required":false,"metadata":{}},{"type":"SEPARATOR","label":" ","identifier":"Space","length":0,"required":false,"metadata":{}},{"type":"FIELD","label":"3","identifier":"3","length":15,"required":false,"metadata":{}}]}},"showTitle":false,"captchaEnabled":false,"buttonVariant":"","objectName":"page-544823cae4b0d14744a74d3b","disclaimerMessage":null,"formFields":[{"type":"name","id":"name-yui_3_17_2_1_1414013890624_13230","locked":false,"title":"Name","description":"","required":true,"name":true},{"type":"text","id":"text-yui_3_17_2_1_1414013890624_18465","locked":false,"title":"Suburb","description":"","placeholder":"","required":false,"text":true},{"type":"phone","id":"phone-yui_3_17_2_1_1414013890624_19965","locked":false,"title":"Phone","description":"","showCountryCode":false,"required":true,"phone":true},{"type":"email","id":"email-yui_3_17_2_1_1414013890624_13557","locked":false,"title":"Email Address","description":"","placeholder":"","required":true,"email":true},{"type":"textarea","id":"textarea-yui_3_17_2_1_1414013890624_14377","locked":false,"title":"Brief Description","description":"","placeholder":"","required":true,"textarea":true}],"captchaAlignment":1,"lightboxHandleText":"","localizedStrings":{"validation":{"noValidSelection":"A valid selection must be made.","invalidUrl":"Must be a valid URL.","stringTooLong":"Value should have a length no longer than {0}.","containsInvalidKey":"{0} contains an invalid key.","invalidTwitterUsername":"Must be a valid Twitter username.","valueOutsideRange":"Value must be in the range {0} to {1}.","invalidPassword":"Passwords should not contain whitespace.","missingRequiredSubfields":"{0} is missing required subfields: {1}","invalidCurrency":"Currency value should be formatted like 1234 or 123.99.","invalidMapSize":"Value should contain exactly {0} elements.","subfieldsRequired":"All fields in {0} are required.","formSubmissionFailed":"Form submission failed. Review the following information: {0}.","invalidCountryCode":"Country code should have an optional plus and up to 4 digits.","invalidDate":"This is not a real date.","required":"{0} is required.","invalidStringLength":"Value should be {0} characters long.","invalidEmail":"Email addresses should follow the format user@domain.com.","invalidListLength":"Value should be {0} elements long.","allEmpty":"Please fill out at least one form field.","missingRequiredQuestion":"Missing a required question.","invalidQuestion":"Contained an invalid question.","captchaFailure":"Captcha validation failed. Please try again.","stringTooShort":"Value should have a length of at least {0}.","invalid":"{0} is not valid.","formErrors":"Form Errors","containsInvalidValue":"{0} contains an invalid value.","invalidUnsignedNumber":"Numbers must contain only digits and no other characters.","invalidName":"Valid names contain only letters, numbers, spaces, ', or - characters."},"submit":"Submit","status":{"title":"{@} Block","learnMore":"Learn more"},"name":{"firstName":"First Name","lastName":"Last Name"},"lightbox":{"openForm":"Open Form"},"likert":{"agree":"Agree","stronglyDisagree":"Strongly Disagree","disagree":"Disagree","stronglyAgree":"Strongly Agree","neutral":"Neutral"},"time":{"am":"AM","second":"Second","pm":"PM","minute":"Minute","amPm":"AM/PM","hour":"Hour"},"notFound":"Form not found.","date":{"yyyy":"YYYY","year":"Year","mm":"MM","day":"Day","month":"Month","dd":"DD"},"phone":{"country":"Country","number":"Number","prefix":"Prefix","areaCode":"Area Code","line":"Line"},"submitError":"Unable to submit form. Please try again later.","address":{"stateProvince":"State/Province","country":"Country","zipPostalCode":"Zip/Postal Code","address2":"Address 2","address1":"Address 1","city":"City"},"email":{"signUp":"Sign up for news and updates"},"cannotSubmitDemoForm":"This is a demo form and cannot be submitted.","required":"(required)","invalidData":"Invalid form data."}}</script>
+<div class="sqs-form-block-submission-html" data-submission-html="" id="form-submission-html-544823dee4b0d14744a74d72"></div>
+<div class="form-wrapper">
+<div class="form-inner-wrapper" hidden="">
+<form action="https://formspree.io/f/xeokyqjr" method="POST">
+  <input type="hidden" name="_subject" value="New contact from The Attic website">
+  <input type="text" name="_gotcha" style="display:none">
+<div class="field-list clear">
+<fieldset class="form-item fields name required" id="name-yui_3_17_2_1_1414013890624_13230">
+<legend class="title">
+              Name
+              
+                <span aria-hidden="true" class="required">*</span>
+</legend>
+<div class="field first-name">
+<label class="caption">
+<input aria-required="true" class="field-element field-control" data-title="First" maxlength="30" name="first_name" spellcheck="false" type="text" x-autocompletetype="given-name"/>
+<span class="caption-text">First Name</span>
+</label>
+</div>
+<div class="field last-name">
+<label class="caption">
+<input aria-required="true" class="field-element field-control" data-title="Last" maxlength="30" name="last_name" spellcheck="false" type="text" x-autocompletetype="surname"/>
+<span class="caption-text">Last Name</span>
+</label>
+</div>
+</fieldset>
+<div class="form-item field text" id="text-yui_3_17_2_1_1414013890624_18465">
+<label class="title" for="text-yui_3_17_2_1_1414013890624_18465-field">
+              Suburb
+              
+            </label>
+<input name="suburb" class="field-element text" id="text-yui_3_17_2_1_1414013890624_18465-field" type="text">
+</div>
+<fieldset class="form-item fields phone required" id="phone-yui_3_17_2_1_1414013890624_19965">
+<legend class="title">
+              Phone
+              
+                <span aria-hidden="true" class="required">*</span>
+</legend>
+<div class="field text three-digits">
+<label class="caption">
+<input name="phone_area" type="text" maxlength="3">
+<span class="caption-text">(###)</span>
+</label>
+</div>
+<div class="field text three-digits">
+<label class="caption">
+<input name="phone_prefix" type="text" maxlength="3">
+<span class="caption-text">###</span>
+</label>
+</div>
+<div class="field text four-digits">
+<label class="caption">
+<input name="phone_line" type="text" maxlength="4">
+<span class="caption-text">####</span>
+</label>
+</div>
+</fieldset>
+<div class="form-item field email required" id="email-yui_3_17_2_1_1414013890624_13557">
+<label class="title" for="email-yui_3_17_2_1_1414013890624_13557-field">
+              Email Address
+              
+                <span aria-hidden="true" class="required">*</span>
+</label>
+<input aria-required="true" autocomplete="email" class="field-element" id="email-yui_3_17_2_1_1414013890624_13557-field" name="email" spellcheck="false" type="email"/>
+</div>
+<div class="form-item field textarea required" id="textarea-yui_3_17_2_1_1414013890624_14377">
+<label class="title" for="textarea-yui_3_17_2_1_1414013890624_14377-field">
+              Brief Description
+              
+                <span aria-hidden="true" class="required">*</span>
+</label>
+<textarea name="message" class="field-element" id="textarea-yui_3_17_2_1_1414013890624_14377-field" aria-required="true"></textarea>
+</div>
+</div>
+<div class="form-button-wrapper form-button-wrapper--align-left" data-animation-role="button">
+<input class="button sqs-system-button sqs-editable-button sqs-button-element--primary" data-sqsp-button="" type="submit" value="Submit"/>
+</div>
+<div class="hidden form-submission-text"><p>Thank you, we'll be in touch very soon!</p></div>
+<div class="hidden form-submission-html" data-submission-html=""></div>
+</form>
+</div>
+</div>
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1414013890624_56032"><div class="sqs-block-content">
+<div class="sqs-html-content">
+<p class="" style="white-space:pre-wrap;"> </p><p class="" style="white-space:pre-wrap;"> </p>
+</div>
+</div></div><div class="sqs-block markdown-block sqs-block-markdown" data-block-type="44" id="block-yui_3_17_2_1_1414013890624_54554"><div class="sqs-block-content"><p>Nik Valentine  0423 107 119 + nik@theattic.net.au</p>
+<p>Ben Valentine  0403 579 827 + ben@theattic.net.au</p>
+</div></div><div class="sqs-block website-component-block sqs-block-website-component map-block sqs-block-map sized vsize-12" data-block-css="[]" data-block-scripts='["https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.map/52985fa4-cee1-4207-bb9b-ea6ea697a1d3_121/website.components.map.visitor.js"]' data-block-type="1337" data-definition-name="website.components.map" id="block-yui_3_17_2_1_1414013890624_22062"><div class="sqs-block-content"><div data-context='{"blockId":"yui_3_17_2_1_1414013890624_22062","location":{"mapLat":-37.8295838,"mapLng":144.8842753,"mapZoom":10,"markerLat":-37.8295838,"markerLng":144.8842753,"addressTitle":"2/50","addressLine1":"Hudsons Road","addressLine2":"Spotswood, VIC, 3015","addressCountry":"Australia"},"vSize":12,"hSize":null,"floatDir":null,"style":6,"labels":true,"terrain":false,"controls":true,"gmak":"QUl6YVN5Q0JUUk9xNkx1dkZfSUUxcjQ2LVQ0QWVUU1YtMGQ3bXk4","locale":{"language":"en","region":"US","languageRegion":"en-US"},"errors":[],"featureFlags":{"useCLDRMoneyFormat":true}}' style="height: 100%; width: 100%">
+   
+</div>
+</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1414013890624_23618"><div class="sqs-block-content">
+<div class="sqs-html-content">
+<p class="" style="white-space:pre-wrap;">Victoria: 33 Sackville St, Collingwood, 3066</p><p class="" style="white-space:pre-wrap;">Tasmania: PO Box 72, Dodges Ferry 7173</p>
+</div>
+</div></div></div></div></div>
+</div>
+</section>
+<footer id="footer">
+<div class="footer-container">
+<div class="sqs-layout sqs-grid-12 columns-12" data-layout-label="Footer Content" data-type="block-field" data-updated-on="1573470615328" id="footerBlock"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-4d7b284ccdced9875689"><div class="sqs-block-content">
+<div class="sqs-html-content">
+<p class="" style="white-space:pre-wrap;"> </p><p class="" style="white-space:pre-wrap;">© 2019 - Attic Building Design</p>
+</div>
+</div></div></div></div></div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<script src="https://static1.squarespace.com/static/ta/51e6b9c9e4b050adffbe392c/1243/scripts/combo/?site.js" type="text/javascript"></script>
+<script data-sqs-type="imageloader-bootstrapper">if(window.ImageLoader) window.ImageLoader.bootstrap({}, document);</script><script>Squarespace.afterBodyLoad(Y);</script><svg data-usage="social-icons-svg" style="display:none" version="1.1" xmlns="http://www.w3.org/2000/svg"><symbol id="facebook-icon" viewbox="0 0 64 64"><path d="M34.1,47V33.3h4.6l0.7-5.3h-5.3v-3.4c0-1.5,0.4-2.6,2.6-2.6l2.8,0v-4.8c-0.5-0.1-2.2-0.2-4.1-0.2 c-4.1,0-6.9,2.5-6.9,7V28H24v5.3h4.6V47H34.1z"></path></symbol><symbol id="facebook-mask" viewbox="0 0 64 64"><path d="M0,0v64h64V0H0z M39.6,22l-2.8,0c-2.2,0-2.6,1.1-2.6,2.6V28h5.3l-0.7,5.3h-4.6V47h-5.5V33.3H24V28h4.6V24 c0-4.6,2.8-7,6.9-7c2,0,3.6,0.1,4.1,0.2V22z"></path></symbol><symbol id="twitter-icon" viewbox="0 0 64 64"><path d="M48,22.1c-1.2,0.5-2.4,0.9-3.8,1c1.4-0.8,2.4-2.1,2.9-3.6c-1.3,0.8-2.7,1.3-4.2,1.6 C41.7,19.8,40,19,38.2,19c-3.6,0-6.6,2.9-6.6,6.6c0,0.5,0.1,1,0.2,1.5c-5.5-0.3-10.3-2.9-13.5-6.9c-0.6,1-0.9,2.1-0.9,3.3 c0,2.3,1.2,4.3,2.9,5.5c-1.1,0-2.1-0.3-3-0.8c0,0,0,0.1,0,0.1c0,3.2,2.3,5.8,5.3,6.4c-0.6,0.1-1.1,0.2-1.7,0.2c-0.4,0-0.8,0-1.2-0.1 c0.8,2.6,3.3,4.5,6.1,4.6c-2.2,1.8-5.1,2.8-8.2,2.8c-0.5,0-1.1,0-1.6-0.1c2.9,1.9,6.4,2.9,10.1,2.9c12.1,0,18.7-10,18.7-18.7 c0-0.3,0-0.6,0-0.8C46,24.5,47.1,23.4,48,22.1z"></path></symbol><symbol id="twitter-mask" viewbox="0 0 64 64"><path d="M0,0v64h64V0H0z M44.7,25.5c0,0.3,0,0.6,0,0.8C44.7,35,38.1,45,26.1,45c-3.7,0-7.2-1.1-10.1-2.9 c0.5,0.1,1,0.1,1.6,0.1c3.1,0,5.9-1,8.2-2.8c-2.9-0.1-5.3-2-6.1-4.6c0.4,0.1,0.8,0.1,1.2,0.1c0.6,0,1.2-0.1,1.7-0.2 c-3-0.6-5.3-3.3-5.3-6.4c0,0,0-0.1,0-0.1c0.9,0.5,1.9,0.8,3,0.8c-1.8-1.2-2.9-3.2-2.9-5.5c0-1.2,0.3-2.3,0.9-3.3 c3.2,4,8.1,6.6,13.5,6.9c-0.1-0.5-0.2-1-0.2-1.5c0-3.6,2.9-6.6,6.6-6.6c1.9,0,3.6,0.8,4.8,2.1c1.5-0.3,2.9-0.8,4.2-1.6 c-0.5,1.5-1.5,2.8-2.9,3.6c1.3-0.2,2.6-0.5,3.8-1C47.1,23.4,46,24.5,44.7,25.5z"></path></symbol></svg>
+</body>
+</html>

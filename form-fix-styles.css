@@ -1,0 +1,11 @@
+/* Hide Squarespace form submission elements */
+.form-submission-text,
+.form-submission-html,
+.sqs-form-block-submission-html {
+    display: none !important;
+}
+
+/* Ensure error messages from Squarespace don't show */
+.form-error-message {
+    display: none !important;
+}
