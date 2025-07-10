@@ -3,6 +3,10 @@ export default {
     const url = new URL(request.url);
     let pathname = url.pathname;
 
+    // Debug logging
+    console.log('Request pathname:', pathname);
+    console.log('TURNSTILE_SITE_KEY exists:', !!env.TURNSTILE_SITE_KEY);
+
     // Redirect www to non-www
     if (url.hostname === 'www.theattic.net.au') {
       return Response.redirect('https://theattic.net.au' + url.pathname, 301);
@@ -23,33 +27,42 @@ export default {
 
     // For contact page, inject Turnstile key
     if (pathname === '/contact.html' || pathname === '/contact') {
+      console.log('Processing contact page');
+      
       try {
-        // Try to fetch the contact page
-        const response = await fetch(new URL(pathname, request.url));
+        // Fetch the original request
+        const response = await fetch(request);
         
         if (response.ok) {
           let text = await response.text();
           
-          // Inject Turnstile site key if available
-          if (env.TURNSTILE_SITE_KEY) {
-            text = text.replace(
-              'TURNSTILE_SITE_KEY_PLACEHOLDER',
-              env.TURNSTILE_SITE_KEY
-            );
+          // Check if placeholder exists
+          if (text.includes('TURNSTILE_SITE_KEY_PLACEHOLDER')) {
+            console.log('Found placeholder, replacing...');
+            
+            if (env.TURNSTILE_SITE_KEY) {
+              console.log('Replacing with site key');
+              text = text.replace(
+                'TURNSTILE_SITE_KEY_PLACEHOLDER',
+                env.TURNSTILE_SITE_KEY
+              );
+            } else {
+              console.error('TURNSTILE_SITE_KEY not found in env!');
+              // For debugging, show what env vars are available
+              console.log('Available env vars:', Object.keys(env));
+            }
           }
           
           return new Response(text, {
-            headers: {
-              'content-type': 'text/html;charset=UTF-8',
-            },
+            headers: response.headers,
           });
         }
       } catch (e) {
-        console.error('Error fetching contact page:', e);
+        console.error('Error processing contact page:', e);
       }
     }
 
     // Default: pass through the request
-    return fetch(new URL(pathname, request.url));
+    return fetch(request);
   }
 };
