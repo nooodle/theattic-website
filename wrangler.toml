@@ -2,4 +2,5 @@ name = "theattic"
 main = "workers-site/index.js"
 compatibility_date = "2024-01-01"
 
-["workers-site", "*.md", ".git*"]
+# Workers with static assets configuration
+# No need for [site] section with modern Workers
