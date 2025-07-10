@@ -1,0 +1,23 @@
+{
+  "name": "theattic-website",
+  "version": "1.0.0",
+  "description": "This is a static version of https://theattic.net.au ready for deployment to Cloudflare Pages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nooodle/theattic-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nooodle/theattic-website/issues"
+  },
+  "homepage": "https://github.com/nooodle/theattic-website#readme",
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "^0.4.0"
+  }
+}

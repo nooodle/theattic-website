@@ -1,18 +1,33 @@
-export default {
-  async fetch(request, env) {
-    const url = new URL(request.url);
-    
-    // Clean URLs - map / to /index.html, /about to /about.html
+import { getAssetFromKV } from '@cloudflare/kv-asset-handler';
+
+addEventListener('fetch', event => {
+  event.respondWith(handleRequest(event));
+});
+
+async function handleRequest(event) {
+  try {
+    const url = new URL(event.request.url);
     let pathname = url.pathname;
+
+    // Handle root and clean URLs
     if (pathname === '/') {
       pathname = '/index.html';
-    } else if (!pathname.includes('.') && pathname !== '/') {
-      // Check if HTML file exists
-      const testPath = pathname + '.html';
-      request = new Request(new URL(testPath, request.url), request);
+    } else if (!pathname.includes('.')) {
+      pathname = pathname + '.html';
     }
+
+    // Create modified request with new pathname
+    const modifiedRequest = new Request(url.origin + pathname, event.request);
     
-    // Let Workers serve the static file
-    return env.ASSETS.fetch(request);
+    return await getAssetFromKV(event, {
+      mapRequestToAsset: req => modifiedRequest,
+    });
+  } catch (e) {
+    // Try original path if modified path fails
+    try {
+      return await getAssetFromKV(event);
+    } catch (e) {
+      return new Response('Not found', { status: 404 });
+    }
   }
-};
+}
