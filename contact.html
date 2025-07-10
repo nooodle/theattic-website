@@ -287,7 +287,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="sqs-block-content">
 <div class="form-wrapper">
 <div class="form-inner-wrapper">
-<form action="/contact" method="POST">
+<form action="https://formspree.io/f/xeokyqjr" method="POST">
   <input type="hidden" name="_subject" value="New contact from The Attic website">
   <input type="hidden" name="_next" value="https://theattic.nikvalentine.workers.dev/thank-you.html">
   <input type="text" name="_gotcha" style="display:none">
@@ -333,7 +333,7 @@ h1, h2, h3, h4, h5, h6 {
   <!-- Cloudflare Turnstile -->
   <div class="form-item" style="margin: 20px 0;">
     <div class="cf-turnstile" 
-         data-sitekey="TURNSTILE_SITE_KEY_PLACEHOLDER"
+         data-sitekey="0x4AAAAAABkkcjKQ5oeC8t5C"
          data-callback="onTurnstileSuccess"
          data-expired-callback="onTurnstileExpired"
          data-theme="light"
@@ -353,7 +353,7 @@ h1, h2, h3, h4, h5, h6 {
 <div class="sqs-form-block-submission-html" data-submission-html="" id="form-submission-html-544823dee4b0d14744a74d72"></div>
 <div class="form-wrapper">
 <div class="form-inner-wrapper" hidden="">
-<form action="/contact" method="POST">
+<form action="https://formspree.io/f/xeokyqjr" method="POST">
   <input type="hidden" name="_subject" value="New contact from The Attic website">
   <input type="hidden" name="_next" value="https://theattic.nikvalentine.workers.dev/thank-you.html">
   <input type="text" name="_gotcha" style="display:none">
@@ -482,7 +482,7 @@ function onTurnstileExpired() {
 
 // Form validation
 document.addEventListener('DOMContentLoaded', function() {
-    const form = document.querySelector('form[action="/contact"]');
+    const form = document.querySelector('form[action="https://formspree.io/f/xeokyqjr"]');
     if (form) {
         form.addEventListener('submit', function(e) {
             const turnstileResponse = document.querySelector('[name="cf-turnstile-response"]');
