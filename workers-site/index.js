@@ -3,66 +3,38 @@ export default {
     const url = new URL(request.url);
     let pathname = url.pathname;
 
-    // Debug logging
-    console.log('Request pathname:', pathname);
-    console.log('TURNSTILE_SITE_KEY exists:', !!env.TURNSTILE_SITE_KEY);
-
     // Redirect www to non-www
     if (url.hostname === 'www.theattic.net.au') {
       return Response.redirect('https://theattic.net.au' + url.pathname, 301);
     }
     
-    // Force HTTPS
-    if (url.protocol === 'http:') {
-      return Response.redirect('https:' + url.href.substring(5), 301);
-    }
-
     // Handle root
     if (pathname === '/') {
       pathname = '/index.html';
     } else if (!pathname.includes('.')) {
-      // Add .html to paths without extension
       pathname = pathname + '.html';
     }
 
+    // Construct the asset URL
+    const assetURL = new URL(pathname, request.url);
+    let response = await fetch(assetURL);
+
     // For contact page, inject Turnstile key
-    if (pathname === '/contact.html' || pathname === '/contact') {
-      console.log('Processing contact page');
+    if ((pathname === '/contact.html' || pathname === '/contact') && response.ok) {
+      const text = await response.text();
       
-      try {
-        // Fetch the original request
-        const response = await fetch(request);
+      if (text.includes('TURNSTILE_SITE_KEY_PLACEHOLDER') && env.TURNSTILE_SITE_KEY) {
+        const modifiedText = text.replace(
+          'TURNSTILE_SITE_KEY_PLACEHOLDER',
+          env.TURNSTILE_SITE_KEY
+        );
         
-        if (response.ok) {
-          let text = await response.text();
-          
-          // Check if placeholder exists
-          if (text.includes('TURNSTILE_SITE_KEY_PLACEHOLDER')) {
-            console.log('Found placeholder, replacing...');
-            
-            if (env.TURNSTILE_SITE_KEY) {
-              console.log('Replacing with site key');
-              text = text.replace(
-                'TURNSTILE_SITE_KEY_PLACEHOLDER',
-                env.TURNSTILE_SITE_KEY
-              );
-            } else {
-              console.error('TURNSTILE_SITE_KEY not found in env!');
-              // For debugging, show what env vars are available
-              console.log('Available env vars:', Object.keys(env));
-            }
-          }
-          
-          return new Response(text, {
-            headers: response.headers,
-          });
-        }
-      } catch (e) {
-        console.error('Error processing contact page:', e);
+        return new Response(modifiedText, {
+          headers: response.headers
+        });
       }
     }
 
-    // Default: pass through the request
-    return fetch(request);
+    return response;
   }
 };
