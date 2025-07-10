@@ -1,5 +1,3 @@
-import { getAssetFromKV } from '@cloudflare/kv-asset-handler';
-
 export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
@@ -20,25 +18,22 @@ export default {
       if (pathname === '/') {
         pathname = '/index.html';
       } else if (!pathname.includes('.') && !pathname.endsWith('/')) {
-        pathname = pathname + '.html';
+        // Try with .html extension
+        const htmlPath = pathname + '.html';
+        const htmlRequest = new Request(new URL(htmlPath, request.url), request);
+        const htmlResponse = await env.ASSETS.fetch(htmlRequest);
+        
+        if (htmlResponse.status === 200) {
+          pathname = htmlPath;
+          request = htmlRequest;
+        }
       }
 
-      // Create modified request
-      const modifiedRequest = new Request(url.origin + pathname, request);
-      
-      // Get the asset - note we need to create an event-like object
-      const event = {
-        request: modifiedRequest,
-        waitUntil: ctx.waitUntil.bind(ctx),
-        env: env
-      };
-      
-      let response = await getAssetFromKV(event, {
-        mapRequestToAsset: req => modifiedRequest,
-      });
+      // Fetch the asset
+      let response = await env.ASSETS.fetch(request);
 
       // Special handling for contact page - inject Turnstile key
-      if (pathname === '/contact.html' || pathname === '/contact') {
+      if ((pathname === '/contact.html' || pathname === '/contact') && response.status === 200) {
         const text = await response.text();
         
         // Use the environment variable set in Cloudflare dashboard
@@ -48,7 +43,9 @@ export default {
             env.TURNSTILE_SITE_KEY
           );
           
-          response = new Response(modifiedHtml, {
+          return new Response(modifiedHtml, {
+            status: response.status,
+            statusText: response.statusText,
             headers: response.headers
           });
         } else {
@@ -58,17 +55,7 @@ export default {
 
       return response;
     } catch (e) {
-      // Try original path if modified path fails
-      try {
-        const event = {
-          request: request,
-          waitUntil: ctx.waitUntil.bind(ctx),
-          env: env
-        };
-        return await getAssetFromKV(event);
-      } catch (e) {
-        return new Response('Not found: ' + e.message, { status: 404 });
-      }
+      return new Response('Not found: ' + e.message, { status: 404 });
     }
   }
 };

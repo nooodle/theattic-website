@@ -2,6 +2,4 @@ name = "theattic"
 main = "workers-site/index.js"
 compatibility_date = "2024-01-01"
 
-[site]
-bucket = "./"
-exclude = ["workers-site", "*.md", ".git*"]
+["workers-site", "*.md", ".git*"]
