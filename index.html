@@ -15,12 +15,12 @@
 <meta content="Attic Building Design" property="og:title"/>
 <meta content="https://www.theattic.net.au" property="og:url"/>
 <meta content="website" property="og:type"/>
-<meta content="Providing Design, Drafting &amp; Planning services in Victoria &amp; Tasmania" property="og:description">
-<meta content="http://static1.squarespace.com/static/5368b369e4b010f43961a262/t/5368bceee4b05b7433d5f15d/1399373039028/AtticLogo_BLACK.png?format=1500w" property="og:image">
-<meta content="418" property="og:image:width">
-<meta content="272" property="og:image:height"/>
-<meta content="Attic Building Design" itemprop="name"/>
-<meta content="https://www.theattic.net.au" itemprop="url"/>
+<meta content="Providing Design, Drafting &amp; Planning services in Victoria &amp; Tasmania" property="og:description"/>
+<meta content="http://static1.squarespace.com/static/5368b369e4b010f43961a262/t/5368bceee4b05b7433d5f15d/1399373039028/AtticLogo_BLACK.png?format=1500w" property="og:image"/>
+<meta content="418" property="og:image:width"/>
+<meta content="272" property="og:image:height">
+<meta content="Attic Building Design" itemprop="name">
+<meta content="https://www.theattic.net.au" itemprop="url">
 <meta content="Providing Design, Drafting &amp; Planning services in Victoria &amp; Tasmania" itemprop="description"/>
 <meta content="http://static1.squarespace.com/static/5368b369e4b010f43961a262/t/5368bceee4b05b7433d5f15d/1399373039028/AtticLogo_BLACK.png?format=1500w" itemprop="thumbnailUrl"/>
 <link href="http://static1.squarespace.com/static/5368b369e4b010f43961a262/t/5368bceee4b05b7433d5f15d/1399373039028/AtticLogo_BLACK.png?format=1500w" rel="image_src"/>
@@ -106,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 </style>
 <style>
-/* Fix Navigation Spacing and Hide Empty Items */
+/* Clean Navigation Spacing */
 .main-nav ul {
     display: flex;
     align-items: center;
@@ -116,11 +116,9 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-nav li {
-    margin: 0 15px; /* Equal spacing between all items */
-    padding: 0;
+    margin: 0 20px;
 }
 
-/* Remove first/last margins */
 .main-nav li:first-child {
     margin-left: 0;
 }
@@ -129,45 +127,6 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 0;
 }
 
-/* IMPORTANT: Hide empty navigation items */
-.main-nav li a:empty,
-.main-nav li a:not(:has(*)):not(:has(text())) {
-    display: none;
-}
-
-.main-nav li:has(a:empty) {
-    display: none !important;
-}
-
-/* Also hide li elements that only contain whitespace */
-.main-nav li {
-    min-height: 0;
-}
-
-.main-nav li:has(> a[href="index.html"]:empty) {
-    display: none !important;
-}
-
-/* Ensure visible links display properly */
-.main-nav li:not(:has(a:empty)) {
-    display: list-item;
-}
-
-.main-nav a {
-    display: inline-block;
-    text-decoration: none;
-}
-
-/* Target the specific empty link if needed */
-.main-nav a[href="index.html"] {
-    display: inline-block;
-}
-
-.main-nav a[href="index.html"]:empty {
-    display: none !important;
-}
-
-/* Mobile responsive */
 @media (max-width: 768px) {
     .main-nav li {
         margin: 0 10px;
@@ -223,9 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 <li class="page-collection">
 <a href="about.html"><span>Our Business</span></a>
 </li>
-<li class="external-link">
-<a href="index.html"><span></span></a>
-</li>
+
 <li class="page-collection">
 <a href="contact.html"><span>Contact</span></a>
 </li>
