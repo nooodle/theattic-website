@@ -12,12 +12,12 @@
 <meta content="Sec-CH-UA-Platform-Version, Sec-CH-UA-Model" http-equiv="Accept-CH"/><link href="https://assets.squarespace.com/universal/default-favicon.ico" rel="icon" type="image/x-icon"/>
 <link href="https://www.theattic.net.au/about" rel="canonical"/>
 <meta content="Attic Building Design" property="og:site_name"/>
-<meta content="Our Business — Attic Building Design" property="og:title">
-<meta content="https://www.theattic.net.au/about" property="og:url">
-<meta content="website" property="og:type">
-<meta content="Our Business — Attic Building Design" itemprop="name"/>
-<meta content="https://www.theattic.net.au/about" itemprop="url"/>
-<meta content="Our Business — Attic Building Design" name="twitter:title"/>
+<meta content="Our Business — Attic Building Design" property="og:title"/>
+<meta content="https://www.theattic.net.au/about" property="og:url"/>
+<meta content="website" property="og:type"/>
+<meta content="Our Business — Attic Building Design" itemprop="name">
+<meta content="https://www.theattic.net.au/about" itemprop="url">
+<meta content="Our Business — Attic Building Design" name="twitter:title">
 <meta content="https://www.theattic.net.au/about" name="twitter:url"/>
 <meta content="summary" name="twitter:card"/>
 <meta content="" name="description"/>
@@ -93,8 +93,9 @@ body, html {
 h1, h2, h3, h4, h5, h6 {
     font-family: "brandon-grotesque", "Work Sans", "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
-</style><style>
-/* Navigation Spacing Fix */
+</style>
+<style>
+/* Fix Navigation Spacing and Hide Empty Items */
 .main-nav ul {
     display: flex;
     align-items: center;
@@ -104,10 +105,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .main-nav li {
-    margin: 0 30px; /* Equal spacing between items */
+    margin: 0 15px; /* Equal spacing between all items */
     padding: 0;
 }
 
+/* Remove first/last margins */
 .main-nav li:first-child {
     margin-left: 0;
 }
@@ -116,20 +118,51 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 0;
 }
 
-/* Remove any default spacing that might interfere */
+/* IMPORTANT: Hide empty navigation items */
+.main-nav li a:empty,
+.main-nav li a:not(:has(*)):not(:has(text())) {
+    display: none;
+}
+
+.main-nav li:has(a:empty) {
+    display: none !important;
+}
+
+/* Also hide li elements that only contain whitespace */
+.main-nav li {
+    min-height: 0;
+}
+
+.main-nav li:has(> a[href="index.html"]:empty) {
+    display: none !important;
+}
+
+/* Ensure visible links display properly */
+.main-nav li:not(:has(a:empty)) {
+    display: list-item;
+}
+
 .main-nav a {
     display: inline-block;
-    padding: 10px 0; /* Vertical padding for click area */
+    text-decoration: none;
+}
+
+/* Target the specific empty link if needed */
+.main-nav a[href="index.html"] {
+    display: inline-block;
+}
+
+.main-nav a[href="index.html"]:empty {
+    display: none !important;
 }
 
 /* Mobile responsive */
 @media (max-width: 768px) {
     .main-nav li {
-        margin: 0 15px;
+        margin: 0 10px;
     }
 }
-</style>
-</head>
+</style></head>
 <body class="index-transition-fade hide-arrows auto-play lightbox-transition-slide content-alignment-left underline-body-links sidebar-position-right show-social-icons social-icon-style-normal event-thumbnails event-thumbnail-size-32-standard event-date-label event-date-label-time event-list-show-cats event-list-date event-list-time event-list-address event-icalgcal-links event-excerpts event-item-back-link product-list-titles-under product-list-alignment-left product-item-size-11-square product-image-auto-crop product-gallery-size-11-square product-gallery-auto-crop show-product-price show-product-item-nav product-social-sharing tweak-v1-related-products-image-aspect-ratio-11-square tweak-v1-related-products-details-alignment-center newsletter-style-dark opentable-style-light small-button-style-solid small-button-shape-square medium-button-style-solid medium-button-shape-square large-button-style-solid large-button-shape-square image-block-poster-text-alignment-center image-block-card-dynamic-font-sizing image-block-card-content-position-center image-block-card-text-alignment-left image-block-overlap-dynamic-font-sizing image-block-overlap-content-position-center image-block-overlap-text-alignment-left image-block-collage-dynamic-font-sizing image-block-collage-content-position-top image-block-collage-text-alignment-left image-block-stack-dynamic-font-sizing image-block-stack-text-alignment-left button-style-outline button-corner-style-rounded tweak-product-quick-view-button-style-floating tweak-product-quick-view-button-position-bottom tweak-product-quick-view-lightbox-excerpt-display-truncate tweak-product-quick-view-lightbox-show-arrows tweak-product-quick-view-lightbox-show-close-button tweak-product-quick-view-lightbox-controls-weight-light native-currency-code-usd collection-type-page collection-5368b3e2e4b0a0c2d9402aa7 collection-layout-default mobile-style-available page-about" id="collection-5368b3e2e4b0a0c2d9402aa7">
 <div class="sqs-announcement-bar-dropzone"></div><!--Fixes index page loading issue when announcement bar is enabled -->
 <div id="canvasWrapper">
